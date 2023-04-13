@@ -1,2 +1,3 @@
-# test_repo
-My new test repository
+# My new test repository
+
+This is my new and second test repository
